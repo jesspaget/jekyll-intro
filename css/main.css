@@ -1,0 +1,19 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  background: darkgray;
+}
+
+h1 {
+  color: lightblue;
+}
+
+h2 {
+  color: white;
+}
+
+ul {
+  text-decoration: none;
+}
